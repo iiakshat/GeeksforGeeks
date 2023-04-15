@@ -30,7 +30,10 @@ Disease damage to rice can greatly reduce yield. They are mainly caused by bacte
 ### Links :
 - #### [Hugging Face](https://huggingface.co/spaces/akshatsanghvi/Rice-Disease-Classifier)
 - #### [Kaggle](https://www.kaggle.com/datasets/dedeikhsandwisaputra/rice-leafs-disease-dataset)
-- #### [LinkedIn](https://www.linkedin.com/in/akshat-sanghvi-5140a7165/)
+- #### LinkedIn :
+    - ##### 1. [Kanika Dogra](https://www.linkedin.com/in/kanika-dogra-48223323a/)
+    - ##### 2. [Dhruv Singh](https://https://www.linkedin.com/in/dhruv-singh-78a503203/)
+    - ##### 3. [Akshat Sangvhi](https://www.linkedin.com/in/akshat-sanghvi-5140a7165/)
 
 
 ### Preview :
